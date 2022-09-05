@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Did you know?**
 - 🎓 I got a PhD and these are [my papers](https://dblp.org/pid/00/3702.html)
-- 🧑‍💻 I have had different roles (research scientist ⇢ data engineer ⇢ AI & Data research team lead ⇢ Data Solutions Architect ⇢ ? )
+- 🧑‍💻 I have had different roles (research scientist ⇢ data engineer ⇢ AI & Data team lead ⇢ Data Solutions Architect ⇢ ? )
 - 🟢 I build things and help others do the same
 - 🚴 Outdoor activities keep my body and mind balanced
 - 📖 Reading makes me think while keeping me curious
